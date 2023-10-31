@@ -4,7 +4,7 @@ NAAN MUDHALVAN IBM-Product demand prediction
 
 This README file provides instructions on how to run the code for product demand prediction using machine learning, specifically with the dataset you mentioned. Please follow the steps below to set up and execute the project.
 
-Data Source:(https://www.kaggle.com/datasets/chakradharmattapalli/future-sales-prediction)
+Data Source:([https://www.kaggle.com/datasets/chakradharmattapalli/future-sales-prediction](https://www.kaggle.com/datasets/chakradharmattapalli/product-demand-prediction-with-machine-learning))
 
 # How to run the code and any dependency:
        Product demand Prediction using Machine Learning
